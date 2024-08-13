@@ -11,6 +11,7 @@ public class Program4 {
         double avg = sum/4.0;
         
         System.out.println("The sum of the four numbers is " + sum);
+        System.out.println();
         System.out.println("The average of the four numbers is " + avg);
         
     }
@@ -20,7 +21,9 @@ public class Program4 {
 //Paste console output below:
 /*
 The sum of the four numbers is 2227
+
 The average of the four numbers is 556.75
+
 
 
 */
