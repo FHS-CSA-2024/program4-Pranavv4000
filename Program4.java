@@ -2,6 +2,11 @@
 //Jk ask for help if you need it (but also look at previous programs!!)
 public class Program4 {
     public static void main(String[] args) {
+
+        //Take user input
+
+
+        
         //First assign 4 variables 
         int number1 =  475;
         int number2 = 821;
